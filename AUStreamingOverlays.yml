@@ -1,9 +1,5 @@
 ##############################################################################
-#                             Streaming Overlay                              #
-#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
-#                     Credit to Magic815 for base images                     #
-#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
-#    https://metamanager.wiki/en/latest/defaults/overlays/streaming.html     #
+###                  AU Region Streaming Services Overlay                  ###
 ##############################################################################
 
 external_templates:
