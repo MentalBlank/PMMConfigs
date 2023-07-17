@@ -31,37 +31,49 @@ templates:
 overlays:
 
   Netflix:
-    variables: {key: netflix, weight: 130}
+    variables: {key: netflix, weight: 180}
     template: [name: standard, name: mdb_streaming]
 
   Prime:
-    variables: {key: amazon, weight: 120}
+    variables: {key: amazon, weight: 170}
     template: [name: standard, name: mdb_streaming]
 
   Disney:
-    variables: {key: disney, weight: 110}
+    variables: {key: disney, weight: 160}
     template: [name: standard, name: mdb_streaming]
 
   AppleTV:
-    variables: {key: appletv, weight: 100}
+    variables: {key: appletv, weight: 150}
     template: [name: standard, name: mdb_streaming]
 
   Crunchyroll:
-    variables: {key: crunchyroll, weight: 90}
+    variables: {key: crunchyroll, weight: 140}
     template: [name: standard, name: mdb_streaming]
 
   Binge:
-    variables: {key: Binge, weight: 80}
+    variables: {key: Binge, weight: 130}
     template: [name: standard, name: mdb_streaming]
 
   Stan:
-    variables: {key: stan, weight: 70}
+    variables: {key: stan, weight: 120}
     template: [name: standard, name: mdb_streaming]
 
   Paramount:
-    variables: {key: paramount, weight: 60}
+    variables: {key: paramount, weight: 110}
     template: [name: standard, name: mdb_streaming]
 
   YouTube:
-    variables: {key: youtube, weight: 50}
+    variables: {key: youtube, weight: 100}
+    template: [name: standard, name: mdb_streaming]
+
+  Funimation:
+    variables: {key: funimation, weight: 90}
+    template: [name: standard, name: mdb_streaming]
+
+  FoxtelNow:
+    variables: {key: foxtelnow, weight: 80}
+    template: [name: standard, name: mdb_streaming]
+    
+  AMC:
+    variables: {key: amc, weight: 70}
     template: [name: standard, name: mdb_streaming]
