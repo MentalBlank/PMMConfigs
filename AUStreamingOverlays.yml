@@ -21,7 +21,7 @@ external_templates:
     back_color: "#00000099"
     back_width: 305
     back_height: 105
-    repo: https://github.com/MentalBlank/PMMConfigs/tree/main/images/<<overlay_name>>
+    url: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/<<overlay_name>>
 
 templates:
   mdb_streaming:
