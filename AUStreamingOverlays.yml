@@ -1,0 +1,79 @@
+##############################################################################
+#                             Streaming Overlay                              #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#                     Credit to Magic815 for base images                     #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#    https://metamanager.wiki/en/latest/defaults/overlays/streaming.html     #
+##############################################################################
+
+external_templates:
+  pmm: templates
+  template_variables:
+    run_definition:
+      - <<use_<<key>>>>
+      - <<use_<<alt>>>>
+    group: streaming
+    default:
+        horizontal_offset: 10
+        horizontal_align: left
+        vertical_offset: 10
+        vertical_align: top
+    back_color: "#00000099"
+    back_width: 305
+    back_height: 105
+    url: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/<<overlay_name>>.png
+
+templates:
+  mdb_streaming:
+    ignore_blank_results: true
+    mdblist_list: https://mdblist.com/lists/mentalblank/<<key>>-<<library_type>>s-au
+
+overlays:
+
+  Netflix:
+    variables: {key: netflix, weight: 180}
+    template: [name: standard, name: mdb_streaming]
+
+  Prime:
+    variables: {key: amazon, weight: 170}
+    template: [name: standard, name: mdb_streaming]
+
+  Disney:
+    variables: {key: disney, weight: 160}
+    template: [name: standard, name: mdb_streaming]
+
+  AppleTV:
+    variables: {key: appletv, weight: 150}
+    template: [name: standard, name: mdb_streaming]
+
+  Crunchyroll:
+    variables: {key: crunchyroll, weight: 140}
+    template: [name: standard, name: mdb_streaming]
+
+  Binge:
+    variables: {key: Binge, weight: 130}
+    template: [name: standard, name: mdb_streaming]
+
+  Stan:
+    variables: {key: stan, weight: 120}
+    template: [name: standard, name: mdb_streaming]
+
+  Paramount:
+    variables: {key: paramount, weight: 110}
+    template: [name: standard, name: mdb_streaming]
+
+  Funimation:
+    variables: {key: funimation, weight: 100}
+    template: [name: standard, name: mdb_streaming]
+
+  AMC:
+    variables: {key: amc, weight: 90}
+    template: [name: standard, name: mdb_streaming]
+
+  FoxtelNow:
+    variables: {key: foxtelnow, weight: 80}
+    template: [name: standard, name: mdb_streaming]
+
+  YouTube:
+    variables: {key: youtube, weight: 70}
+    template: [name: standard, name: mdb_streaming]
