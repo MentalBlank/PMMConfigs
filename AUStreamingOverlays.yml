@@ -62,18 +62,18 @@ overlays:
     variables: {key: paramount, weight: 110}
     template: [name: standard, name: mdb_streaming]
 
-  YouTube:
-    variables: {key: youtube, weight: 100}
+  Funimation:
+    variables: {key: funimation, weight: 100}
     template: [name: standard, name: mdb_streaming]
 
-  Funimation:
-    variables: {key: funimation, weight: 90}
+  AMC:
+    variables: {key: amc, weight: 90}
     template: [name: standard, name: mdb_streaming]
 
   FoxtelNow:
     variables: {key: foxtelnow, weight: 80}
     template: [name: standard, name: mdb_streaming]
-    
-  AMC:
-    variables: {key: amc, weight: 70}
+
+  YouTube:
+    variables: {key: youtube, weight: 70}
     template: [name: standard, name: mdb_streaming]
