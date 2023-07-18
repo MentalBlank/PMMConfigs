@@ -73,3 +73,44 @@ overlays:
   YouTube:
     variables: {key: youtube, weight: 70}
     template: [name: standard, name: mdb_streaming]
+
+##############################################################################
+###                            OTHER PROVIDERS                             ###
+##############################################################################
+
+# Shudder - https://www.shudder.com/ - Horror, Thrillers & Suspense
+#  Shudder:
+#    variables: {key: shudder, weight: 60}
+#    template: [name: standard, name: mdb_streaming]
+    
+# Hayu - https://www.hayu.com/ - Reality TV
+#  Hayu:
+#    variables: {key: hayu, weight: 50}
+#    template: [name: standard, name: mdb_streaming]
+    
+# Kayo - https://kayosports.com.au/ - Sports
+#  Kayo:
+#    variables: {key: kayo, weight: 40}
+#    template: [name: standard, name: mdb_streaming]
+    
+# BritBox - https://www.britbox.com/ - British TV
+#  BritBox:
+#    variables: {key: britbox, weight: 30}
+#    template: [name: standard, name: mdb_streaming]
+    
+# Tubi - https://tubitv.com/
+#  Tubi:
+#    variables: {key: tubi, weight: 20}
+#    template: [name: standard, name: mdb_streaming]
+    
+# AcornTV - https://au.acorn.tv/ - Mysteries, Dramas, and Comedies from Britain and beyond
+#  AcornTV:
+#    variables: {key: acorntv, weight: 10}
+#    template: [name: standard, name: mdb_streaming]
+    
+# OZFlix - https://www.ozflix.org/ - Australian Based Content
+#  OZFlix:
+#    variables: {key: ozflix, weight: 5}
+#    template: [name: standard, name: mdb_streaming]
+
+#######################################################################
