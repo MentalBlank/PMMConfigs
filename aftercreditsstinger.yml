@@ -1,0 +1,21 @@
+external_templates:
+  pmm: templates
+  template_variables:
+    default:
+        horizontal_offset: 10
+        horizontal_align: left
+        vertical_offset: 10
+        vertical_align: top
+    back_color: "#00000099"
+    allowed_libraries: movie
+    back_width: 105
+    back_height: 105
+    url: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/overlays/creditsstinger/aftercredits.png
+
+overlays:
+  Mediastinger:
+    template:
+      name: standard
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger
