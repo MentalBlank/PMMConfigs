@@ -2,11 +2,11 @@ external_templates:
   pmm: templates
   template_variables:
     default:
-        horizontal_offset: 125
+        horizontal_offset: 10
         horizontal_align: left
         vertical_offset: 10
         vertical_align: bottom
-    back_color: "#00000099"
+    back_color: "#00000000"
     allowed_libraries: movie
     back_width: 105
     back_height: 105
