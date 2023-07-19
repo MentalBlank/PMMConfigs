@@ -1,6 +1,6 @@
 metadata:
   327417:
-    url_poster: https://artworks.thetvdb.com/banners/series/327417/posters/5e824889ad675.jpg
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/poster.png
     seasons:
       1:
         url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/Season01.png
@@ -96,39 +96,42 @@ metadata:
             summary: "As the police enter the Mint, Berlín leads the robbers in a final showdown. Will they escape with the 984 million euros—and with their lives intact?"
             originally_available: 2018-04-06
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S02E09.jpg
-          10:
+      3:
+        url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/Season03.png
+        episodes:
+          1:
             summary: "When Rio is captured, a distraught Tokyo turns to the Professor for help. Armed with a bold new plan, they reunite the team in order to rescue him."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E01.jpg
-          11:
+          2:
             summary: "The Professor recruits Martin to put his brother's plan into action and target the Bank of Spain. First step? Create total chaos."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E02.jpg
-          12:
+          3:
             summary: "Tokyo and Nairobi's efforts go drastically awry. The Professor recalls Berlin detailing how they'd steal the gold from the water-logged vault."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E03.jpg
-          13:
+          4:
             summary: "Tamayo's breaches of protocol surprise the Professor. Bogota calms Denver's anxieties. With time running out, Palermo initiates the ´Flipper´ plan."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E04.jpg
-          14:
+          5:
             summary: "The Professor shocks officials with his latest stunt, but in response, a new inspector rattles Raquel. Palermo and Nairobi get into a heated argument."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E05.jpg
-          15:
+          6:
             summary: "Just as Inspector Sierra orchestrates a plan to sneak a team into the Bank of Spain, the Professor and Raquel lose communication with Palermo."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E06.jpg
-          16:
+          7:
             summary: "Tokyo's happiness turns bittersweet. Angel closes in on a quarreling Raquel and the Professor. Authorities offer a multimillion-dollar reward for tips."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E07.jpg
-          17:
+          8:
             summary: "Tokyo attempts to drown her sorrows. Sierra uses personal tactics to target a vulnerable Nairobi, while Suarez continues to hunt down Raquel."
             originally_available: 2019-07-19
             url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/S03E08.jpg
-      3:
+      4:
         url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/metadata/tv/Money_Heist_2017/Season04.png
         episodes:
           1:
