@@ -78,6 +78,11 @@ overlays:
 ###                            OTHER PROVIDERS                             ###
 ##############################################################################
 
+# HiDive - https://welcome.hidive.com/ - Anime
+#  Shudder:
+#    variables: {key: hidive, weight: 65}
+#    template: [name: standard, name: mdb_streaming]
+
 # Shudder - https://www.shudder.com/ - Horror, Thrillers & Suspense
 #  Shudder:
 #    variables: {key: shudder, weight: 60}
