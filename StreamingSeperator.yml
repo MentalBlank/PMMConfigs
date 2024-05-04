@@ -1,0 +1,12 @@
+external_templates:
+  default: templates
+  template_variables:
+    collection_section: "19"
+
+collections:
+  Streaming Service Collections:
+    template:
+      - name: separator
+        separator: streaming
+        key_name: Streaming
+        translation_key: separator
