@@ -1,0 +1,40 @@
+external_templates:
+  git: PMM/templates
+  template_variables:
+    collection_section: "19"
+
+templates:
+  network:
+    mdblist_list:
+      url: https://mdblist.com/lists/mentalblank/<<type>>-<<library_type>>s-au/
+    sync_mode: sync
+    collection_order: custom
+    sort_title: +<<collection_name>>
+    summary: <<library_type>>s From the Streaming Service <<collection_name>>
+    url_poster: https://theposterdb.com/api/assets/<<poster>>
+
+collections:
+  Netflix:
+    template: {name: network, type: netflix, poster: 205048}
+  Prime:
+    template: {name: network, type: amazon, poster: 168830}
+  Disney+:
+    template: {name: network, type: disney, poster: 168824}
+  AppleTV:
+    template: {name: network, type: appletv, poster: 206165}
+  Crunchyroll:
+    template: {name: network, type: crunchyroll, poster: 170981}
+  Binge:
+    template: {name: network, type: Binge, poster: 205411}
+  Stan:
+    template: {name: network, type: stan, poster: 287836}
+  Paramount:
+    template: {name: network, type: paramount, poster: 168828}
+  Funimation:
+    template: {name: network, type: funimation, poster: 170983}
+  AMC:
+    template: {name: network, type: amc, poster: 220355}
+  FoxtelNow:
+    template: {name: network, type: foxtelnow, poster: 220369}
+  YouTube:
+    template: {name: network, type: youtube, poster: 207496}
