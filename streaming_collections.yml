@@ -9,32 +9,32 @@ templates:
       url: https://mdblist.com/lists/mentalblank/<<type>>-<<library_type>>s-au/
     sync_mode: sync
     collection_order: custom
-    sort_title: +<<collection_name>>
-    summary: <<library_type>>s From the Streaming Service <<collection_name>>
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
+    sort_title: !<<collection_section>>_<<collection_name>>
+    summary: <<library_type>>s From the <<collection_name>> streaming service
+    url_poster: <<poster>>
 
 collections:
   Netflix:
-    template: {name: network, type: netflix, poster: 205048}
+    template: {name: network, type: netflix, poster: https://theposterdb.com/api/assets/205048}
   Prime:
-    template: {name: network, type: amazon, poster: 168830}
+    template: {name: network, type: amazon, poster: https://theposterdb.com/api/assets/168830}
   Disney+:
-    template: {name: network, type: disney, poster: 168824}
+    template: {name: network, type: disney, poster: https://theposterdb.com/api/assets/168824}
   AppleTV:
-    template: {name: network, type: appletv, poster: 206165}
+    template: {name: network, type: appletv, poster: https://theposterdb.com/api/assets/206165}
   Crunchyroll:
-    template: {name: network, type: crunchyroll, poster: 170981}
+    template: {name: network, type: crunchyroll, poster: https://theposterdb.com/api/assets/170981}
   Binge:
-    template: {name: network, type: Binge, poster: 205411}
+    template: {name: network, type: binge, poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/collections/binge.png}
   Stan:
-    template: {name: network, type: stan, poster: 287836}
+    template: {name: network, type: stan, poster: https://theposterdb.com/api/assets/287836}
   Paramount:
-    template: {name: network, type: paramount, poster: 168828}
+    template: {name: network, type: paramount, poster: https://theposterdb.com/api/assets/168828}
   Funimation:
-    template: {name: network, type: funimation, poster: 170983}
+    template: {name: network, type: funimation, poster: https://theposterdb.com/api/assets/170983}
   AMC:
-    template: {name: network, type: amc, poster: 184945}
+    template: {name: network, type: amc, poster: https://theposterdb.com/api/assets/184945}
   FoxtelNow:
-    template: {name: network, type: foxtelnow, poster: 220369}
+    template: {name: network, type: foxtelnow, poster: https://theposterdb.com/api/assets/220369}
   YouTube:
-    template: {name: network, type: youtube, poster: 235771}
+    template: {name: network, type: youtube, poster: https://theposterdb.com/api/assets/235771}
