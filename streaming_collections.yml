@@ -33,7 +33,7 @@ collections:
   Funimation:
     template: {name: network, type: funimation, poster: 170983}
   AMC:
-    template: {name: network, type: amc, poster: 220355}
+    template: {name: network, type: amc, poster: 184945}
   FoxtelNow:
     template: {name: network, type: foxtelnow, poster: 220369}
   YouTube:
