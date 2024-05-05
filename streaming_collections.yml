@@ -37,4 +37,4 @@ collections:
   FoxtelNow:
     template: {name: network, type: foxtelnow, poster: 220369}
   YouTube:
-    template: {name: network, type: youtube, poster: 207496}
+    template: {name: network, type: youtube, poster: 235771}
