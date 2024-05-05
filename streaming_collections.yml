@@ -35,6 +35,6 @@ collections:
   AMC:
     template: {name: network, type: amc, poster: https://theposterdb.com/api/assets/184945}
   FoxtelNow:
-    template: {name: network, type: foxtelnow, poster: https://theposterdb.com/api/assets/220369}
+    template: {name: network, type: foxtelnow, poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/collections/foxtelnow.png}
   YouTube:
     template: {name: network, type: youtube, poster: https://theposterdb.com/api/assets/235771}
