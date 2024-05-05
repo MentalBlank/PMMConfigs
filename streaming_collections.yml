@@ -16,11 +16,11 @@ templates:
 collections:
   Netflix:
     template: {name: network, type: netflix, poster: https://theposterdb.com/api/assets/205048}
-  Prime:
+  Amazon Prime:
     template: {name: network, type: amazon, poster: https://theposterdb.com/api/assets/168830}
   Disney+:
     template: {name: network, type: disney, poster: https://theposterdb.com/api/assets/168824}
-  AppleTV:
+  AppleTV+:
     template: {name: network, type: appletv, poster: https://theposterdb.com/api/assets/206165}
   Crunchyroll:
     template: {name: network, type: crunchyroll, poster: https://theposterdb.com/api/assets/170981}
@@ -28,7 +28,7 @@ collections:
     template: {name: network, type: binge, poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/collections/binge.png}
   Stan:
     template: {name: network, type: stan, poster: https://theposterdb.com/api/assets/287836}
-  Paramount:
+  Paramount+:
     template: {name: network, type: paramount, poster: https://theposterdb.com/api/assets/168828}
   Funimation:
     template: {name: network, type: funimation, poster: https://theposterdb.com/api/assets/170983}
