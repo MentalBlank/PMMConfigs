@@ -1,13 +1,15 @@
 metadata:
   ".hack//":
+    url_poster: https://theposterdb.com/api/assets/106653
     seasons:
       1:
         title: "SIGN"
         original_title: ".hack//SIGN"
+        url_poster: https://theposterdb.com/api/assets/463640
       2:
         title: "Legend of the Twilight"
         original_title: ".hack//Legend of the Twilight"
-        url_poster: https://artworks.thetvdb.com/banners/seasons/79099-2-4.jpg
+        url_poster: https://image.tmdb.org/t/p/original/54Ywha0SjfbyMHNm2wGyr24RoiK.jpg
         episodes:
           1:
             title: "The Legendary Hero"
@@ -72,7 +74,7 @@ metadata:
       3:
         title: "Roots"
         original_title: ".hack//Roots"
-        url_poster: https://artworks.thetvdb.com/banners/seasons/79099-3-2.jpg
+        url_poster: https://image.tmdb.org/t/p/original/9HugakJIKV07AWMotFzgZSvT99N.jpg
         episodes:
           1:
             title: "Welcome to The World"
