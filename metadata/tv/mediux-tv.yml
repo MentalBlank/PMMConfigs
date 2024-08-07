@@ -11312,6 +11312,7 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/43ccaea6-9a8e-46eb-856a-79fc184fbe5f
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/05b294df-ea8e-42fc-9717-a3ac954e4c9f
           2:
