@@ -2425,6 +2425,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/e3c0c358-b610-45ba-904a-42e5be452def
   296295: # TVDB id for Ash vs Evil Dead. Set by edmondantes32 on MediUX. https://mediux.pro/sets/18362
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c1ed7a50-2fc2-47c1-9d85-f99c8f84323d
@@ -2446,6 +2447,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/059e3d8c-6ddf-4e7e-98d3-160b8d89c68f
           10:
             url_poster: https://api.mediux.pro/assets/a3b17a25-6a1a-4925-81fd-535629c03124
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8c507589-82fc-41e9-82bd-311dedba8478
@@ -2467,6 +2469,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e2b43e79-d88e-46d9-a4ed-dc22d0ed9d4a
           10:
             url_poster: https://api.mediux.pro/assets/a2369db5-ca54-44b0-b9b0-8bfe388ef009
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/4fef09f2-f9ab-4d9a-b567-af886cabd6c4
