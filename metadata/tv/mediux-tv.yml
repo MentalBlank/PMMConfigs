@@ -12491,21 +12491,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3709f3bb-12c3-45b4-a2af-ab2a281abadb
           16:
             url_poster: https://api.mediux.pro/assets/0a323bfb-ef0e-46f3-a97c-cd5da61ddd2f
-  361701: # TVDB id for Ghosts. Set by Pejamas on MediUX. https://mediux.pro/sets/2447
-    url_poster: https://api.mediux.pro/assets/d162d863-3e95-49db-9c4f-67ac5ba5e279
-    seasons:
-      0:
-        url_poster: https://api.mediux.pro/assets/bc3f49a1-459d-4ad3-a89f-a2a2969a6aab
-      1:
-        url_poster: https://api.mediux.pro/assets/cb498400-5f90-46b1-83d7-dd87ece73567
-      2:
-        url_poster: https://api.mediux.pro/assets/c4ef4b57-2962-45d3-874a-7ac9767d2a4f
-      3:
-        url_poster: https://api.mediux.pro/assets/4d5054e6-4daf-4b4a-94cc-ac0e7305c99e
-      4:
-        url_poster: https://api.mediux.pro/assets/5d2202b9-d9b8-4270-8e61-66bdaa129f3c
-      5:
-        url_poster: https://api.mediux.pro/assets/b00aded2-8425-4c5c-abff-12188eac23cb
   296550: # TVDB id for Glitch. Set by DrWhoDalek on MediUX. https://mediux.pro/sets/12492
     url_poster: https://api.mediux.pro/assets/8385d836-b49a-4de9-bd9c-d6764c6a1378
     seasons:
