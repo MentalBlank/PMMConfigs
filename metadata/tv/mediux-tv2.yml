@@ -2365,59 +2365,6 @@ metadata:
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/abeee0fb-be00-4b2e-b13a-50edddbce4ce
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/8ef92b9c-66dc-49f0-bfa6-5406c16f3f43
-          2:
-            url_poster: https://api.mediux.pro/assets/bdb73869-1773-46b7-9d88-8023815a0ec2
-          3:
-            url_poster: https://api.mediux.pro/assets/516dfbfe-41ab-42a9-ae85-a907f902db95
-          4:
-            url_poster: https://api.mediux.pro/assets/2ca79a95-953b-4115-825a-c9717a434d9c
-          5:
-            url_poster: https://api.mediux.pro/assets/96273915-db3c-4980-8f96-0bd0fadf28d1
-          6:
-            url_poster: https://api.mediux.pro/assets/67d992cb-773b-427c-926e-c1ca5ac723b6
-          7:
-            url_poster: https://api.mediux.pro/assets/7c2a64fd-9244-41db-997a-ae16fb3fee8f
-          8:
-            url_poster: https://api.mediux.pro/assets/d6858157-ce95-439d-b091-62a219988208
-          9:
-            url_poster: https://api.mediux.pro/assets/046c921b-1ac5-4f18-b609-d46535eeca66
-          10:
-            url_poster: https://api.mediux.pro/assets/e22026b6-5051-43dd-8b30-17e430b8e183
-          11:
-            url_poster: https://api.mediux.pro/assets/0cacc512-a94d-4a27-bbc5-ead2c49bbd74
-          12:
-            url_poster: https://api.mediux.pro/assets/cec9bf69-03a9-424d-aaa6-c8feacc819d2
-          13:
-            url_poster: https://api.mediux.pro/assets/1c94c314-acf1-408c-baf6-709a2972e7f1
-          14:
-            url_poster: https://api.mediux.pro/assets/e50da0cc-f06d-4d65-89d0-7ffc7eda5ce8
-          15:
-            url_poster: https://api.mediux.pro/assets/01439cca-0187-4bd6-9aca-594c5d01dd30
-          16:
-            url_poster: https://api.mediux.pro/assets/4718664a-1704-4eb5-9857-55799f013f15
-          17:
-            url_poster: https://api.mediux.pro/assets/fc7e7672-3423-4241-8b78-f32749a52640
-          18:
-            url_poster: https://api.mediux.pro/assets/a46810e0-c18a-4cdb-8bb2-67a963f61ea0
-          19:
-            url_poster: https://api.mediux.pro/assets/d796369d-7698-4dba-a491-04299cfe13cc
-          20:
-            url_poster: https://api.mediux.pro/assets/cc8c5fba-6595-4cb2-ac02-91683386478f
-          21:
-            url_poster: https://api.mediux.pro/assets/c65e9e0d-af46-48c3-b003-80b15591daef
-          22:
-            url_poster: https://api.mediux.pro/assets/8b6b124f-cba5-49ad-8384-3a27e319cdc0
-          22:
-            url_poster: https://api.mediux.pro/assets/3567b3d0-9311-4d6e-9d5f-0959e8539ba9
-          23:
-            url_poster: https://api.mediux.pro/assets/255f2a08-06f5-4c0f-8dc2-61f249231e32
-          24:
-            url_poster: https://api.mediux.pro/assets/588001f0-bf59-4c8c-b62f-c1a7192ee6b6
-          25:
-            url_poster: https://api.mediux.pro/assets/21c4fc06-f5db-4526-a560-8900d62877f8
       1:
         url_poster: https://api.mediux.pro/assets/18792420-93fc-4a40-a444-62d946c8a367
         episodes:
