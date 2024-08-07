@@ -3721,6 +3721,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/dc793a1a-fc53-4c79-8b44-c118739bf090
   325184: # TVDB id for Rostered On. Set by alexpips on MediUX. https://mediux.pro/sets/12014
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d63138ae-d827-44f4-9199-a6b36c8950f8
@@ -3736,6 +3737,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/95260ce3-2225-420c-9b01-b852d71ced44
           7:
             url_poster: https://api.mediux.pro/assets/77a7040d-4b2a-4116-a5ea-c2e8df55763b
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3cbd4b62-a304-4870-84b2-a6e8a3ed5e5b
@@ -3749,6 +3751,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2e818341-3695-4ae1-b7d9-545e3b8c94c1
           6:
             url_poster: https://api.mediux.pro/assets/0c2cf3e5-cd20-43f9-889e-5e68b1806c86
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0bb8facf-a418-463d-9fdb-b42424aea8d5
@@ -4742,6 +4745,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/8fe164a8-a41a-44dc-8470-975ce3d89f63
   396625: # TVDB id for Velma. Set by Kwickflix on MediUX. https://mediux.pro/sets/18987
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3c05c4de-8868-4843-bc90-523f1c862a06
@@ -4763,6 +4767,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/72f004dc-8d0b-494c-a942-be288b07f6ab
           10:
             url_poster: https://api.mediux.pro/assets/a7e2ca98-346d-4ea8-8a22-be2d664cbcba
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/fec3ac40-4e0c-4574-9e76-38ccd874e745

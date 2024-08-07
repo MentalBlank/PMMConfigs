@@ -8,6 +8,7 @@ metadata:
   412374: # TVDB id for Call of the Night. Set by creshaytions on MediUX. https://mediux.pro/sets/21473
     url_poster: https://api.mediux.pro/assets/af320524-43a8-404a-9a8a-993cd6bf1b1c
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a6ee21bd-8972-4c02-a55b-76ab33f8eadc
@@ -279,6 +280,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/af43a5d5-a9cf-4782-9fff-12a945e1faa3
   402474: # TVDB id for Hell's Paradise. Set by Kwickflix on MediUX. https://mediux.pro/sets/15340
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/976efd2d-f208-4de1-a8a2-9a69c1ba0000
@@ -444,6 +446,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f230344c-dbe2-4811-853b-b0751994e0f6
   420280: # TVDB id for Ninja Kamui. Set by Vryolaka on MediUX. https://mediux.pro/sets/21120
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a68e481c-495f-4b67-898b-393bce99c588
@@ -473,6 +476,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/20c237be-22e1-49be-973a-ef8e7854480d
   421069: # TVDB id for Oshi No Ko. Set by Kwickflix on MediUX. https://mediux.pro/sets/15266
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/499fff49-c083-471b-8f0c-999df564f15f

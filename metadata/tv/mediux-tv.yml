@@ -6758,6 +6758,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/2dfe7d18-f910-497d-b58d-23cc5d63b4e2
   76885: # TVDB id for Cowboy Bebop. Set by Kwickflix on MediUX. https://mediux.pro/sets/15965
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/06ebfc4c-797a-468b-a073-a3c862daba06
@@ -7017,6 +7018,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/866cb707-b987-4725-90ee-072db631e842
   366607: # TVDB id for The Cuphead Show!. Set by Kwickflix on MediUX. https://mediux.pro/sets/19990
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/6fbd2bbe-85e1-4d1d-b296-37f768ee5e44
@@ -7042,6 +7044,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/63a8fa80-e97a-46eb-b2c0-c8b7e5480e1f
           12:
             url_poster: https://api.mediux.pro/assets/24a46dbd-ffb7-4adf-afed-3ded29870d00
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/cf1544e8-bf61-4d3a-9c77-4b5c03e510a2
@@ -7069,6 +7072,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a47fad76-03cd-479c-9435-05d20bd09dd9
           13:
             url_poster: https://api.mediux.pro/assets/dced8dab-7757-45e6-b9e9-d8f7eb614b19
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/35871866-a96a-4c58-9d16-14c8b44ed8b3
@@ -12513,11 +12517,13 @@ metadata:
         url_poster: https://api.mediux.pro/assets/5aa7fc48-1e42-43be-bc4d-e89cf3551a8d
   269653: # TVDB id for The Goldbergs. Set by rtgurley on MediUX. https://mediux.pro/sets/20280
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/1e9c1bf7-da10-460e-996c-96848c5cf9f8
           2:
             url_poster: https://api.mediux.pro/assets/0de3ef8e-929c-4dc2-a0bf-8cfed4a67f74
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2a43151e-4d56-4be7-b63e-d23d2b9731ac
@@ -12565,6 +12571,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b42cde19-5809-4baf-b405-f3144cf3d2de
           23:
             url_poster: https://api.mediux.pro/assets/245fc0af-bfa2-40b0-bfd8-03138a40d0f8
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d5e31e80-c860-4342-bd34-0bf7934d48a8
@@ -12614,6 +12621,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/0e51eace-8e8a-4b45-9d22-849e1727de96
           24:
             url_poster: https://api.mediux.pro/assets/17fa4904-351b-4513-9ddb-a878da311531
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c398aff0-492f-4b5a-ad21-31fa875db378
@@ -12663,6 +12671,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/aef02291-e4f3-45d3-a2a2-5db5b0cbea74
           24:
             url_poster: https://api.mediux.pro/assets/b9806f60-6e1a-472f-9c70-d3ce432221f7
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/ecad6315-6684-4489-a5f5-946506686655
@@ -12712,6 +12721,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/902af452-5459-498a-97be-1898e8293c10
           24:
             url_poster: https://api.mediux.pro/assets/20c1251e-3ce6-4495-92a1-c2452bb2b889
+      5:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d9dd9201-2579-47d8-9eff-1499c0becf41
@@ -12757,6 +12767,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c7d56879-784b-45bd-9daa-124a40ffdbd0
           22:
             url_poster: https://api.mediux.pro/assets/c0191028-8eac-4a35-a970-f19187830450
+      6:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/786ade15-d0a1-4368-a176-5bfd48730986
@@ -12804,6 +12815,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/047cf434-5532-4e62-8e46-5525f38e324f
           23:
             url_poster: https://api.mediux.pro/assets/20787c9b-8ee7-4106-b6f5-893fd8e9ed63
+      7:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d6568d64-42d4-47f9-9acc-be9a1f5cd28c
@@ -12851,6 +12863,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/6016287f-b2e1-4792-9f64-8134fca547bc
           23:
             url_poster: https://api.mediux.pro/assets/12af50fb-3006-4dd8-8da4-4567d30b0cb9
+      8:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/6e529c7c-2974-46e3-8a90-dd72872f0d11
@@ -12896,6 +12909,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b106ac66-c39a-4619-b010-71c365bcba84
           22:
             url_poster: https://api.mediux.pro/assets/e930eb22-d707-4c5d-8c1c-44476c59645a
+      9:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/f0442651-16f7-4ee7-83f0-7a7f21ca6efe
@@ -12941,6 +12955,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f6b6685a-d3bd-4d92-832c-bf9df242d2d6
           22:
             url_poster: https://api.mediux.pro/assets/14b9592b-53a6-4a8e-a6b9-5f56c6e07bc7
+      10:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8a27d39a-2bfa-4224-9872-3e2b5ef2bf28
@@ -13186,7 +13201,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/532602c9-bbb6-450d-819b-cfba9a8026bf
           12:
             url_poster: https://api.mediux.pro/assets/cefe38b4-819f-44da-8046-6a6294c35cad
-    seasons:
       4:
         url_poster: https://api.mediux.pro/assets/53e42b9d-99d8-4c2b-81b3-3c7d65ef44d8
         episodes:
@@ -13513,6 +13527,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/8b91410d-6d3d-4479-b532-04353426d88e
   369301: # TVDB id for The Great. Set by hanaquackquack on MediUX. https://mediux.pro/sets/9187
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/5efc740e-3e0a-4761-b9c1-f71978da1c29
@@ -13534,6 +13549,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7e3c5443-08ce-4d89-a561-e7beb3a61ea3
           10:
             url_poster: https://api.mediux.pro/assets/3fbf35ac-a928-4788-8f5a-3fba93fe0ce5
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/065e234c-ca2e-4c83-a8f1-3dd3c8ee8322
@@ -13555,6 +13571,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7b87417b-aacd-4c36-bc81-1885694c37e9
           10:
             url_poster: https://api.mediux.pro/assets/a8542a84-a967-4fd1-adbc-517c31b565f8
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/31c7222c-9b29-4945-9c7a-bd82fcd20dd8
@@ -15542,6 +15559,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/fc1052af-b82c-493f-83e8-f7259c57d6a9
   77747: # TVDB id for The Storyteller. Set by sim_cubed on MediUX. https://mediux.pro/sets/23378
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c52d47ce-e0f5-42ac-a50e-c193c219c74d
@@ -17202,6 +17220,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9974018a-80f1-4b03-9c4f-a303f95be226
   283346: # TVDB id for Man Seeking Woman. Set by alexpips on MediUX. https://mediux.pro/sets/12026
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2942232d-8381-4c07-abad-289a1917f8be
@@ -17223,6 +17242,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/071c68e9-f393-4b24-81dd-2b632e9aa896
           10:
             url_poster: https://api.mediux.pro/assets/2fac1525-e8cb-4042-b2c9-ff8cd6c94c9a
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/135792aa-4532-4204-84e6-bfc8bfeec36c
@@ -17244,6 +17264,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3fe11dc4-e678-4fa9-95dc-2626ab9d0718
           10:
             url_poster: https://api.mediux.pro/assets/2d81657a-653e-44f6-bb34-34f66c6e770a
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/cdea50bc-3a88-40e1-a71b-442889e74bcb
@@ -18334,6 +18355,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/92738398-fe31-4390-8441-2248a559184e
   357222: # TVDB id for Modern Love. Set by alexpips on MediUX. https://mediux.pro/sets/12031
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e7fdbc88-d65b-4bad-b7a9-b3aea6b62ac1
@@ -18351,6 +18373,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/fedb0844-f5cf-4b64-b6fe-1c4b932f274d
           8:
             url_poster: https://api.mediux.pro/assets/0b921601-3aba-4e96-99bc-c96c57d53be4
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/bb9846a9-189d-454c-9cf7-f8795ff04bd6
@@ -18934,6 +18957,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/6fc7a4d3-5a14-4f89-9d11-5410d58ae86b
   78490: # TVDB id for Monk. Set by jjwags23 on MediUX. https://mediux.pro/sets/21428
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0777c12d-4644-4dc3-bcc2-a20f3d8670f9
@@ -18959,6 +18983,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/6f485fdb-5b48-4337-8c01-42ba466dd08e
           13:
             url_poster: https://api.mediux.pro/assets/801d24c1-ad06-4525-9d52-a4d08e935db4
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/da7c44a8-12d5-4a44-807b-0e62dd789885
@@ -18992,6 +19017,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2fe7a5c9-3e8c-42c4-bd2b-8ed361cf5571
           16:
             url_poster: https://api.mediux.pro/assets/4d6f6060-bf26-498a-9841-8cd0eca8111a
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/5b585ee5-e86d-4865-9424-996efe9a3bb7
@@ -19025,6 +19051,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c4dae4ed-6345-413a-81e8-79eb9a167ce0
           16:
             url_poster: https://api.mediux.pro/assets/c0e920e7-b574-41b6-81f8-75e4885e497b
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e1da19e6-86b0-4c51-93ac-d6336587b79f
@@ -19058,6 +19085,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/75158b3b-5eb3-4b0b-81cd-4f6acd2ac5b9
           16:
             url_poster: https://api.mediux.pro/assets/62e18b7c-283f-40d6-acb1-749eb930c94d
+      5:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c772cba4-f409-46e3-b181-eeda4ea55257
@@ -19091,6 +19119,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d752af7a-75bb-456a-a258-c61e1fd43bf3
           16:
             url_poster: https://api.mediux.pro/assets/2151dfa0-8b2d-4e92-9896-9ab481bb5dab
+      6:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/229b9fc8-059a-4e20-977b-b28626ee4264
@@ -19124,6 +19153,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/61566534-ee61-4986-b8d7-a4f659dab71e
           16:
             url_poster: https://api.mediux.pro/assets/a4c8e11f-6973-4682-8d12-cd6d5c73b6c2
+      7:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/7364f565-e3a4-4bdb-958e-418c8f3da648
@@ -19157,6 +19187,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b0133697-ee3d-4f32-9b15-8ee2434ec5d0
           16:
             url_poster: https://api.mediux.pro/assets/8f573b37-e637-4221-bbf7-5b782d38c826
+      8:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e00a2427-0d0c-4d96-9e37-3ed957b4cd63
@@ -19436,6 +19467,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4911344b-0123-475b-b13c-5da56ee0e090
   353232: # TVDB id for Narcos: Mexico. Set by hanaquackquack on MediUX. https://mediux.pro/sets/9614
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/45cfe023-41c5-4e97-984b-5e8e5d367e22
@@ -19457,6 +19489,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/043b1c35-dc6e-4634-9129-a47b8c19aafc
           10:
             url_poster: https://api.mediux.pro/assets/112f1a66-8610-43ad-9d3d-918c694df6ba
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/ff5ca541-b0a0-44f0-bbc0-9dba3e0ffc50
@@ -19478,6 +19511,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/bed21bf8-6e2e-4bc4-9d4d-9574e589b933
           10:
             url_poster: https://api.mediux.pro/assets/651f752b-a117-4afd-a200-70f804620889
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2c942b2e-466a-428c-98c7-0d074e72d29e
@@ -22881,6 +22915,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/cc881d27-143c-4381-a24a-68f31c792bec
   368126: # TVDB id for Servant. Set by Kwickflix on MediUX. https://mediux.pro/sets/18991
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e4c629c1-83f0-4630-abe6-d34542354685
@@ -22902,6 +22937,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5d041308-206b-4c48-a3d6-f5e32930761c
           10:
             url_poster: https://api.mediux.pro/assets/d5ef296a-5bbd-47b5-8494-e5fc8fc9486e
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/fdfb442f-2b95-4bcc-a7ca-40075e0998b8
@@ -22923,6 +22959,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/571d0edf-fcf7-4c15-a5dd-89e1b30fc2f1
           10:
             url_poster: https://api.mediux.pro/assets/1d771f94-2bdb-4707-89d3-fb58510fb6b3
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/92198d15-47c3-4f77-9b61-cb2ca6b08371
@@ -22944,6 +22981,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b1b3fadd-1b8c-422f-81c0-f9858959ea6d
           10:
             url_poster: https://api.mediux.pro/assets/e2555a32-1dbd-4847-9731-2b08ac1ba48f
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/7250a51a-4f3e-4f1a-9634-b095ccd37e8b
@@ -27709,6 +27747,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/dbce986a-96ec-4533-a3b1-aa6f281c1969
   272135: # TVDB id for TURN: Washington's Spies. Set by apocalyptic0n3 on MediUX. https://mediux.pro/sets/20075
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/57438014-b9fe-46a4-971b-15d9bf4b03f2
@@ -27730,6 +27769,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a81714a2-9b74-4b61-ada7-dda52cb75f0d
           10:
             url_poster: https://api.mediux.pro/assets/3da561fa-d7c4-4585-8527-3325e0c2b076
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/869ab7f7-39c3-432e-b797-1941a7864677
@@ -27751,6 +27791,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1d8c7dd1-43e4-4661-af18-ca852b42a4d5
           10:
             url_poster: https://api.mediux.pro/assets/75c8f744-5901-4d03-bf19-0a91aa6b0eb8
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/88959a3a-38ee-49de-ba9f-360b41d20a32
@@ -27772,6 +27813,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b8d18b38-7864-41fc-8655-c462296de5c9
           10:
             url_poster: https://api.mediux.pro/assets/5f8f09bb-e335-4bb7-b4b2-791f5e100e3a
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/ff1c0aeb-b8aa-4ee7-9cad-9fd161759baa
@@ -30128,6 +30170,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/1d74ca43-b880-4f93-8f92-8ceee704a92e
     url_background: https://api.mediux.pro/assets/1f783411-d51a-4a4c-9a98-cc5224195abb
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8f154cca-8648-4de5-befc-462d7296db74

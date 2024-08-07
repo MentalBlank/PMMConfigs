@@ -1,6 +1,7 @@
 metadata:
   378609: # TVDB id for 86 EIGHTY-SIX. Set by Vryolaka on MediUX. https://mediux.pro/sets/21061
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2e42fe9e-4b72-4282-a26b-19d1061ef2f1
@@ -50,6 +51,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/0480a2eb-e00e-47d2-b854-993e4af2d7e6
   280329: # TVDB id for Akame ga Kill!. Set by Vryolaka on MediUX. https://mediux.pro/sets/21052
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a8663a0c-5763-42d1-b5ad-2d7baff015ac
@@ -101,6 +103,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8ff30013-5cde-4912-b7a3-0b361f0d4999
   254349: # TVDB id for Another. Set by Vryolaka on MediUX. https://mediux.pro/sets/21049
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/92cb7f43-b4e0-4966-8990-0bfb8258aa90
@@ -291,6 +294,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/55e61818-ae5b-4210-adad-cb14c8d2b58e
   71742: # TVDB id for Boogiepop Phantom. Set by Vryolaka on MediUX. https://mediux.pro/sets/21053
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/1b5b43af-3525-4766-9a1f-060cdd4b339a
@@ -332,6 +336,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/4431e9c7-5897-444a-8d12-834cc191c62d
   79995: # TVDB id for Claymore. Set by Kwickflix on MediUX. https://mediux.pro/sets/15315
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/b6dd5abc-806e-4bb1-bd36-68786aa1a120
@@ -387,6 +392,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ee11bebf-9c92-413f-bd8f-2a6bcb3bb6e5
   76885: # TVDB id for Cowboy Bebop. Set by Kwickflix on MediUX. https://mediux.pro/sets/15965
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/06ebfc4c-797a-468b-a073-a3c862daba06
@@ -469,6 +475,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1dea8844-8010-430e-9875-ac2cd2d1bc01
   79481: # TVDB id for Death Note. Set by Kwickflix on MediUX. https://mediux.pro/sets/15197
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/85af28d1-83dc-4c79-8111-3d808406948f
@@ -768,6 +775,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ed6d2f94-5809-43fe-9847-b111fd3b9114
   385314: # TVDB id for Dragon's Dogma. Set by Vryolaka on MediUX. https://mediux.pro/sets/21110
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2f1d5703-475e-465b-ad70-e79d3ae49b21
@@ -785,6 +793,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4d0176e9-55ca-4ced-8221-7844304eaa68
   79228: # TVDB id for Ergo Proxy. Set by Kwickflix on MediUX. https://mediux.pro/sets/15817
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/882038fe-0f56-4f78-8165-608e8d1eb5a9
@@ -1062,6 +1071,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ad34acfe-60d7-4b89-8e41-59281d9427e2
   78916: # TVDB id for GANTZ. Set by Kwickflix on MediUX. https://mediux.pro/sets/15317
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/403a915b-25cc-477b-b472-9744b9735d17
@@ -1069,6 +1079,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/665ba877-83f1-4921-8af2-abdd980b3632
           3:
             url_poster: https://api.mediux.pro/assets/7cdd9cfb-32e2-48a3-b99a-126b3a3f518f
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/ae677464-7b74-40e7-9b26-f4d780fe8c95
@@ -1092,6 +1103,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4c56a144-3b6f-4a45-bbe4-81fade090fe7
           11:
             url_poster: https://api.mediux.pro/assets/edfc9602-4399-44bf-953d-6f0ea4f8b107
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/94c756fe-d754-44b0-bda8-40282bf21b40
@@ -1126,6 +1138,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/187c8cf2-24e3-40b9-9ccb-76f6832a2e12
   350166: # TVDB id for Goblin Slayer. Set by Kwickflix on MediUX. https://mediux.pro/sets/22608
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8156a5af-aeb3-4aec-91b0-9377c169b3d9
@@ -1151,6 +1164,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/78a817d0-1bed-4422-a78c-77f1f6be6dc4
           12:
             url_poster: https://api.mediux.pro/assets/6c4cd97a-8c31-4c72-a8f6-a8b05769b76e
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0ebef5f7-4d31-4de0-a3f0-107fc596c533
@@ -1197,9 +1211,11 @@ metadata:
         url_poster: https://api.mediux.pro/assets/e9edd9f3-5258-4fb1-a041-0ebb542e10f1
   171591: # TVDB id for High School of the Dead. Set by Kwickflix on MediUX. https://mediux.pro/sets/15398
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/319a0910-35d5-4b83-b27d-a3a65aa18b2e
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/5c34a2d9-e4a8-4af8-bf6b-c485f06a8d86
@@ -1227,6 +1243,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/eadfe016-9bd9-4efc-96f6-b928a29580b8
   254653: # TVDB id for High School D×D. Set by Kwickflix on MediUX. https://mediux.pro/sets/20332
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/abb3ab41-b057-4bc1-8394-7a82f6edda12
@@ -1252,6 +1269,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/87a0b9ff-a1c1-49af-acf2-4f904dcb33f8
           12:
             url_poster: https://api.mediux.pro/assets/abc662f2-dbaf-4960-8049-d9e354b18f22
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/09148fa3-ff97-4a27-9b61-d69e65cdc715
@@ -1277,6 +1295,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5b7d57e4-cb0e-4470-aeb7-cd73322cc941
           12:
             url_poster: https://api.mediux.pro/assets/5a87feb0-9e35-4611-84d2-e4800f56de62
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/ab81c06c-c837-4473-a718-eb3271f21fac
@@ -1302,6 +1321,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/95be0349-5587-4b78-8ea5-58abee5f4e83
           12:
             url_poster: https://api.mediux.pro/assets/56817054-c330-4bf6-bb40-b354692e7214
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/cfbc31aa-84c7-407c-a268-a96af4250e84
@@ -1859,9 +1879,11 @@ metadata:
         url_poster: https://api.mediux.pro/assets/1e65f2f2-60c0-4f23-9988-eb9ffa597567
   293267: # TVDB id for Prison School. Set by Kwickflix on MediUX. https://mediux.pro/sets/15397
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a585a66e-5b44-4753-b8ae-df2bfea6aa3b
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/798e5c18-de93-4ca4-ac5f-39e0ae999154
@@ -1889,9 +1911,11 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7e9cf45d-860a-43d4-89a0-4debec8e4352
   348002: # TVDB id for The Promised Neverland. Set by Kwickflix on MediUX. https://mediux.pro/sets/15516
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/6de6d694-acf1-4e04-b996-a18269183250
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a5e23978-6faa-48b7-aabc-44a6e3ead2c5
@@ -1917,6 +1941,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e2c87cce-83d1-4d16-9829-c0042e42d63d
           12:
             url_poster: https://api.mediux.pro/assets/140f7465-18ac-480c-a00b-ff10365a160f
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/0952bed5-4e80-4ce6-a65b-95e351ce4e1e
@@ -2015,6 +2040,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/e9a518d7-c6c4-4e3e-96d6-e969309286ee
   244061: # TVDB id for Steins;Gate. Set by Recker_Man on MediUX. https://mediux.pro/sets/18025
     seasons:
+      0:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/80556cce-c8f8-4da2-a687-6a78f226dee0
@@ -2028,6 +2054,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9e7b6f93-2309-4f51-86d6-62ad523ca1e4
           6:
             url_poster: https://api.mediux.pro/assets/37dff113-56d1-48be-a3c9-5c366f9d3b8b
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d4178ecb-5c10-412f-9bda-e791fedcac92
@@ -2191,6 +2218,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/91f9be4b-374e-4a39-83bc-345e8e1ee8f2
   77680: # TVDB id for TRIGUN. Set by Recker_Man on MediUX. https://mediux.pro/sets/18021
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e98b5ee8-87d7-4847-96af-20541ec5423e
