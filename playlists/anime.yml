@@ -1,0 +1,8 @@
+playlists:
+  One Piece (Canon Timeline):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Anime
+    trakt_list: https://trakt.tv/users/mentalblank/lists/one-piece-canon
+    summary: The canon chronological order of One Piece.
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/One Piece Collection.png
