@@ -1813,6 +1813,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/c50a8d98-5d86-45c2-9774-0147cf3d1140
   359569: # TVDB id for Good Omens. Set by hanaquackquack on MediUX. https://mediux.pro/sets/8967
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3ce4cd8c-5750-44cd-893c-7a09c34fba48
@@ -1826,6 +1827,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/348d7132-7e5b-4325-aeaf-9f463561f911
           6:
             url_poster: https://api.mediux.pro/assets/23169445-f59d-4ff8-99ef-12c24b2083d8
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/59f8dd7e-40c1-41ff-84de-f97b5b2288a1
