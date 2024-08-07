@@ -16202,6 +16202,7 @@ metadata:
   328599: # TVDB id for Krypton. Set by valexv on MediUX. https://mediux.pro/sets/21983
     url_poster: https://api.mediux.pro/assets/021755f8-c354-4bf8-85bd-ac1442a36c90
     url_background: https://api.mediux.pro/assets/b4294f13-79aa-4077-9fb2-3829862aa690
+    seasons:
       1:
         episodes:
           1:
