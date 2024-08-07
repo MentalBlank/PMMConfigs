@@ -4184,11 +4184,11 @@ metadata:
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/ce83b19a-8810-49a4-b9da-e0f2dc9194f2
-      1:
-        url_poster: https://api.mediux.pro/assets/fb9023cc-975c-432d-be71-d5e3b5e1a3c0
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/cc03255e-312e-4029-ad0c-da3f2d5ab38d
+      1:
+        url_poster: https://api.mediux.pro/assets/fb9023cc-975c-432d-be71-d5e3b5e1a3c0
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/4fdc2204-585b-4a95-9022-ccc28c48fa5a
