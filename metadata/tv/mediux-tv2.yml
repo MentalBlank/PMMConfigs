@@ -2818,6 +2818,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/376da44f-0f2d-44a5-b625-f71704e0d3be
   362829: # TVDB id for Mythic Quest. Set by Sarrius on MediUX. https://mediux.pro/sets/2636
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3644bb1c-3c6e-4076-966a-23a522d43a31
@@ -2841,6 +2842,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1781dd90-0bf7-4095-9abe-92e244e0769a
           11:
             url_poster: https://api.mediux.pro/assets/979c5cb2-1d6a-4978-8033-54b74c5da41b
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3549edb8-f4dc-4a93-a287-ac7c98f4ebe3
@@ -2860,6 +2862,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c0921373-fa1a-4d91-8a3c-fa72c8b0eb9f
           9:
             url_poster: https://api.mediux.pro/assets/9ed3a4fb-5d3d-468e-9958-ffd411e95349
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c6f3668c-5070-45b1-9614-ca8a17fd294b
