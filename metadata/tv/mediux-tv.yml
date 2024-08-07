@@ -4201,6 +4201,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/1e2b1b86-44aa-4f87-9374-e7e549c324b5
       1:
         url_poster: https://api.mediux.pro/assets/bd8ee597-071a-415c-a4b2-9d430d519635
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/bb6fded1-98ce-40fe-b830-f52949794f12
           2:
