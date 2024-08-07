@@ -3139,13 +3139,6 @@ metadata:
         url_poster: https://api.mediux.pro/assets/8c51d742-157a-4b38-a6da-78e82ffd1882
       3:
         url_poster: https://api.mediux.pro/assets/83a559d9-d9f3-482d-9f90-a9519b71f6b6
-  422373: # TVDB id for Mike Judge's Beavis and Butt-Head. Set by Pejamas on MediUX. https://mediux.pro/sets/2390
-    url_poster: https://api.mediux.pro/assets/a53f328a-d8f4-472c-89e6-785f242c4542
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/4f2b50e1-526a-4286-a4ad-138ec06d8669
-      2:
-        url_poster: https://api.mediux.pro/assets/3d2906eb-8010-4b8c-9b40-b38c495c22ca
   196921: # TVDB id for Being Human. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/11269
     url_poster: https://api.mediux.pro/assets/62cc3a28-f0cd-4907-ba71-0fc7f9ffae37
     url_background: https://api.mediux.pro/assets/dc9b3b40-7861-4710-bdf4-edecef909ad9
@@ -7815,39 +7808,6 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/7b226b0a-798d-49dc-84a4-e069bc247e23
-  449991: # TVDB id for Doctor Who. Set by Recker_Man on MediUX. https://mediux.pro/sets/18506
-    url_poster: https://api.mediux.pro/assets/710fef95-d6d5-42fe-a728-d533fabf5e56
-    seasons:
-      0:
-        url_poster: https://api.mediux.pro/assets/59908c24-1135-480e-bbcc-aeae844a7004
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/e539c22a-a7e6-4855-9053-d4e8f5fea860
-          2:
-            url_poster: https://api.mediux.pro/assets/82aca104-8462-413b-96bb-1e613916b598
-          3:
-            url_poster: https://api.mediux.pro/assets/024e0d22-2f8a-4817-90ae-d6b615c961b1
-          4:
-            url_poster: https://api.mediux.pro/assets/231261d5-4e66-4516-b54e-9e3823e3409b
-      1:
-        url_poster: https://api.mediux.pro/assets/965373a0-f9c6-45d4-8b4f-ba71f1f5d323
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/e842f42e-51f1-4f88-bbfd-21c4da1619e5
-          2:
-            url_poster: https://api.mediux.pro/assets/11ec6ade-705e-4414-9633-6e7703f0dd7a
-          3:
-            url_poster: https://api.mediux.pro/assets/93533241-d1bd-4736-bb55-6982ef6a94a8
-          4:
-            url_poster: https://api.mediux.pro/assets/2d4509c5-b975-402e-82be-3395d401779d
-          5:
-            url_poster: https://api.mediux.pro/assets/0a26b426-4b71-4808-b7b2-e0536828c9f1
-          6:
-            url_poster: https://api.mediux.pro/assets/595b2513-c7fb-4d1b-b531-cf02b2996392
-          7:
-            url_poster: https://api.mediux.pro/assets/62ede7d2-5790-42cb-95f9-5241777c330e
-          8:
-            url_poster: https://api.mediux.pro/assets/dabbd882-7976-4ed8-b76c-7c66b5a46ee6
   78804: # TVDB id for Doctor Who. Set by Recker_Man on MediUX. https://mediux.pro/sets/15049
     url_poster: https://api.mediux.pro/assets/fcfdc487-dd07-4993-a0c1-0a3015362e5b
     seasons:
