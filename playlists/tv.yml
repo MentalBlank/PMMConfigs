@@ -1,0 +1,8 @@
+playlists:
+  Buffyverse (Timeline Order):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: TV Shows
+    trakt_list: https://trakt.tv/users/mentalblank/lists/buffyverse
+    summary: Buffyverse episodes in Chronological Order
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/Buffy the Vampire Slayer (1997).png

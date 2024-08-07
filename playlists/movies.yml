@@ -1,0 +1,29 @@
+playlists:
+  Marvel Cinematic Universe (Movie Timeline Order):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?display=movie
+    summary: Marvel Cinematic Universe in Chronological Order
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/Marvel Studios.jpg
+  DC Extended Universe (Timeline Order):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/monkey-fitz/lists/dceu-timeline
+    summary: Movies from the DC Extended Universe in Chronological Order
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/DC Comics.jpg
+  Star Wars (Movie Timeline Order):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/xrayblaster/lists/star-wars-chronological-order?display=movie
+    summary: Star Wars movies in Chronological Order
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/Star Wars Collection.jpeg
+  X-Men (Movie Timeline Order):
+    sync_to_users: all
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/heyitsbea/lists/x-men?display=movie
+    summary: All X-Men movies in Chronological Order
+    url_poster: https://raw.githubusercontent.com/MentalBlank/PMMConfigs/main/images/playlists/X-Men Collection.jpeg
