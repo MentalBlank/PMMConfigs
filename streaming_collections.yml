@@ -1,7 +1,7 @@
 external_templates:
   git: PMM/templates
   template_variables:
-    collection_section: "!019"
+    collection_section: "019"
 
 templates:
   network:
@@ -9,7 +9,7 @@ templates:
       url: https://mdblist.com/lists/mentalblank/<<type>>-<<library_type>>s-au/
     sync_mode: sync
     collection_order: custom
-    sort_title: <<collection_section>>_<<collection_name>>
+    sort_title: !<<collection_section>>_<<collection_name>>
     summary: TV Shows and Movies from the <<collection_name>> streaming service
     url_poster: <<poster>>
 
